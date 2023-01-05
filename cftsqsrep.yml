@@ -5,7 +5,7 @@ Parameters:
   queuename:
     Description: This stack will append fifo to the end of this name.
     Type: String
-    Default: 'sample-queue'
+    Default: 'queue1'
   DelaySeconds:
     Description: "The time in seconds that the delivery of all messages in the queue is delayed"
     Type: Number
