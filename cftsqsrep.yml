@@ -1,6 +1,6 @@
 ---
 AWSTemplateFormatVersion: '2010-09-09'
-Description: This stack creates a Standard Queue
+Description: This stack creates a SQS Queue
 Parameters:
   queuename:
     Description: This stack will append fifo to the end of this name.
